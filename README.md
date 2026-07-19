@@ -32,9 +32,10 @@ Through this project, I gained experience with:
 ## Project Structure
 
 ```
-├── index.html
-├── style.css
-├── images/
+├── resume.html
+├── master.css
+├── coverletter.html
+├── careergoals.html
 └── README.md
 ```
 
